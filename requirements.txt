@@ -1,0 +1,4 @@
+# Our how-to docs will use --debug parameter which is only available in Flask 2.2+
+Flask>=2.2
+identity[flask]>=0.8,<0.9
+python-dotenv<0.22
